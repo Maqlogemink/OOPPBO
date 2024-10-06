@@ -1,0 +1,11 @@
+{
+  "editor.fontSize": 13,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code, Consolas, 'Courier New', monospace",
+  "C_Cpp.errorSquiggles": "disabled",
+  "terminal.integrated.tabs.defaultColor": "terminal.ansiBlack",
+  "terminal.integrated.fontSize": 14,
+  "clang-format.executable": "/absolute/path/to/clang-format",
+  "editor.defaultFormatter": "xaver.clang-format",
+  "editor.formatOnSave": true
+}
